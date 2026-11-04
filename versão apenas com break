@@ -1,0 +1,7 @@
+alunos= ["ana", "carla", "glaucia", "carlos", "regina"]
+
+for i in alunos:
+    if i == "joão":
+        break
+else:
+        print("nome não está cadastrado!!!") 
